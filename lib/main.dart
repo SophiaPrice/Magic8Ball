@@ -23,7 +23,7 @@ class BallPage extends StatefulWidget {
 }
 
 class _BallState extends State<BallPage> {
-  int ballNumber = 0;
+  int ballNumber = 1;
 
   @override
   Widget build(BuildContext context) {
